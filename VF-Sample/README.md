@@ -1,1 +1,1 @@
-#VisualFore
+ create a dropdown list that contains all objects (custom and standard). When user select a value from list and click on “submit” button then all the fields of an object should be displayed. (VF page and apex Class) 
